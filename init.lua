@@ -11,7 +11,7 @@ vim.opt.breakindent = true
 vim.opt.updatetime = 250
 vim.opt.signcolumn = "yes"
 vim.opt.cursorline = true
-vim.g.have_nerd_font = true
+vim.g.have_nerd_font = false
 vim.opt.list = true
 vim.opt.listchars = { tab = "» ", trail = "·", nbsp = "␣" }
 vim.opt.tabstop = 4
